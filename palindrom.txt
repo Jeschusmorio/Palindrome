@@ -1,0 +1,9 @@
+palindrom:
+mittels rekursion (methode) parameter: string
+überprüfen ob es ein palindrom ist
+Rückgabewert: boolean
+
+eine Möglichkeit wie man Datumstrings erzeugt:
+gib alle Daten (Datums) zwischen 1900 und 2100 die ein palindrom sind aus
+Datums: 8-stellig
+Amerikaner: Monat/Tag/Jahr
